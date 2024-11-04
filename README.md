@@ -2,5 +2,5 @@
 Ejemplo de Clase
 
 Luis Chacon
-Keyla 
-Pamela Cruz
+Keyla
+
